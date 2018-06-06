@@ -1,4 +1,4 @@
-This extends work done in the paper *A Simple and Expressive Semantic Framework for Policy Composition in Access Control* by Glenn Bruns, Daniel S. Dantas, and Michael Huth, published in the ACM workshop on Formal Methods in Security Engineering
+This extends work done in the paper *A Simple and Expressive Semantic Framework for Policy Composition in Access Control* by Glenn Bruns, Daniel S. Dantas, and Michael Huth, published in the ACM workshop on Formal Methods in Security Engineering 
 
 https://dl.acm.org/citation.cfm?id=1314439
 
